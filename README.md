@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pyae Sone Han</h1>
-<h3 align="center">a beginner mobile developer from Myanmar.</h3>
+<h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
+<h3 align="left">a beginner mobile developer from Myanmar.</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose & Flutter**
-
 - 💬 Ask me about **Java, Kotlin, Dart, Android, Jetpack Compose & Flutter**
-
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
