@@ -2,7 +2,7 @@
 <h3 align="left">a beginner mobile developer from Myanmar.</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose & Flutter**
-- 💬 Ask me about **Android, Jetpack Compose & Flutter**
+- 💬 Discuss with me about **Android, Jetpack Compose & Flutter**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
