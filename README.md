@@ -18,11 +18,10 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="dart" height="60"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" alt="flutter" height="60"/> </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="go" height="60"/> </a>
-  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" alt="intelliij idea" height="60"/> </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vs code" height="60"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma" height="60"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="sqlite" height="60"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma" height="60"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git" height="60"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="github" height="60"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postman" height="60"/> </a> 
 </p>
