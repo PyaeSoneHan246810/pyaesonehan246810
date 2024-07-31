@@ -17,7 +17,7 @@
   <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="jetpack compose" height="60"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="dart" height="60"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" alt="flutter" height="60"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="flutter" height="60"/> </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="go" height="60"/> </a>
   <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" alt="intelliij idea" height="60"/> </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vs code" height="60"/> </a> 
