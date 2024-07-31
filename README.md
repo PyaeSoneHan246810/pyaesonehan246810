@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
 <h3 align="left">a beginner mobile developer from Myanmar.</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose & Flutter**
-- 💬 Discuss with me about **Android, Jetpack Compose & Flutter**
+- 🌱 I’m currently learning **Jetpack Compose, Flutter & Go**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,12 +12,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" height="60"/> </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" height="60"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Android.svg" alt="android" height="60"/> </a> 
   <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="jetpack compose" height="60"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="dart" height="60"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" alt="flutter" height="60"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="flutter" height="60"/> </a>
   <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" alt="intelliij idea" height="60"/> </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vs code" height="60"/> </a> 
