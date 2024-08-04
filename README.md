@@ -1,13 +1,14 @@
 <h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
-<h3 align="left">a beginner mobile developer from Myanmar.</h3>
+<h3 align="left">a beginner mobile developer and designer from Myanmar.</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose, Flutter & Go**
+- 🌱 I’m currently learning **Jetpack Compose, Flutter, Go & UI/UX Design.**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/pyaesonehan.han?mibextid=JRoKGi" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/Facebook.svg" alt="facebook" width="60" /></a>
   <a href="https://linkedin.com/in/pyae-sone-han-3b7833249" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="linkedin" width="60" /></a>
+  <a href="https://www.behance.net/pyaesonehan" target="blank"><img align="center" src="https://icon.icepanel.io/Technology/svg/Behance.svg" alt="behance" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
