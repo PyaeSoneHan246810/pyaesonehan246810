@@ -21,8 +21,8 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="go" height="60"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio" height="60"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vs code" height="60"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma" height="60"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="git" height="60"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="github" height="60"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postman" height="60"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postman" height="60"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="figma" height="60"/> </a> 
 </p>
