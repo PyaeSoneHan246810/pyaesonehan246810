@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
-<h3 align="left">a beginner mobile developer and designer from Myanmar.</h3>
+<h3 align="left">a beginner developer and designer from Myanmar.</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose, Flutter, Go & UI/UX Design.**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
