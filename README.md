@@ -15,6 +15,7 @@
 <p align="left"> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="kotlin" height="60"/> </a> 
   <a href="https://developer.android.com/develop/ui/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" alt="jetpack compose" height="60"/> </a> 
+  <a href="https://ktor.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" alt="ktor" height="60"/> </a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" alt="dart" height="60"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" alt="flutter" height="60"/> </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="go" height="60"/> </a>
