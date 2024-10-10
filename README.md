@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pyae Sone Han</h1>
 <h3 align="left">a beginner developer and designer from Myanmar.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Kotlin Multiplatform, Jetpack Compose, Dart, Flutter, Go, Python & UI/UX Design.**
+- 🌱 I’m currently learning **Kotlin, Kotlin Multiplatform, Jetpack Compose, Ktor, Dart, Flutter, Go & UI/UX Design.**
 - 📫 How to reach me **pyaesonehan246810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
